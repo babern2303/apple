@@ -13,6 +13,5 @@ int main()
 	a = random / 100;
 	b = (random / 10) % 10;
 	c = random % 10;
-	cout << "Число в обратном порядке:" << c << b << a << endl;
-    
+	cout << "Число в обратном порядке:" << c << b << a << endl;    
 }
